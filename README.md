@@ -12,7 +12,6 @@ A responsive weather application that provides current weather conditions, forec
   - Air quality index (simulated)
 
 - **City Search**: Search for any city worldwide
-- **User Accounts**: Secure login and registration system
 - **Responsive Design**: Works on all device sizes
 - **Dark/Light Mode**: Toggle between themes
 - **Visual Weather Backgrounds**: Dynamic backgrounds based on weather conditions
